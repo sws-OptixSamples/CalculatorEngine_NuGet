@@ -10,7 +10,7 @@ Currently Windows only.
 The example image below illustrates the path from the cpp file to the Optix runtime.  
 The supporting .NET solution for the NuGet build is named CalculatorEngine_NuGet
 
-![runtimeExampleImage](ProjectFiles/runtimeExampleImage.png)
+![runtimeExampleImage](runtimeExampleImage.png)
 
 ## Disclaimer
 Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
