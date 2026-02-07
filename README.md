@@ -1,6 +1,7 @@
 # CalculatorEngine_NuGet
 
-Supporting .NET solution to build a C++ DLL NuGet package that is used by the CalculatorEntine_Optix project.    
+Supporting .NET solution to build a C++ DLL NuGet package that is used by the CalculatorEntine_Optix project.  
+The purpose of this project was not to make a calculator but to learn how to get some C++ into Optix via NuGet.
   
 The solution file contains two projects currently, one as a c# wrapper project for the core DLL calculator engine project.  
 Future enhancement will be to add the core SO calculator engine project for Linux.  
